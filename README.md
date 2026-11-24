@@ -32,3 +32,12 @@ Unplanned, exploratory work: treat everything here as a starting point, not a fi
 - Replace stock images with a consistent custom illustration set.
 - Script-first workflow with brand colours decided up front.
 - Automate scene building instead of driving the Vids UI by hand.
+
+## /stickman-stickwoman workflow
+
+Relatable everyday-life shorts with Stickman and Stickwoman: portrait 9:16 (Instagram, TikTok, YouTube Shorts)
+and landscape 16:9 (YouTube), generated with Google Vids AI Video. Type `/stickman-stickwoman` in Claude Code.
+
+- Skill: `.claude/skills/stickman-stickwoman/SKILL.md`
+- Characters and reference images: `characters/`
+- Scripts and prompt logs: `scripts/`
