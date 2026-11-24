@@ -73,6 +73,12 @@ For one idea, write one script and generate the portrait and the landscape versi
 - Reference-image upload (Ingredients, up to 3 images) opens a native file picker the built-in browser can't
   drive, and it first shows a consent dialog ("Create content from images in Workspace"). Accepting terms is the
   user's decision: ask them. Default to describing the characters in text.
+- Quota: after a generation Vids shows "You have N seconds of video generation left this month. Limits reset
+  Dec 1 at 8 AM". Generated seconds count against it, so a 10 s clip uses 10 s. Plan clip lengths accordingly.
+- A generated clip is lost if the tab reloads before you press Insert. Insert as soon as it finishes; a
+  "Previewing / Insert" prompt may appear, confirm it.
+- Export: File > Download > MP4 (the user asking to export is the yes). The file lands in the Downloads folder;
+  copy it into `exports/<slug>_portrait.mp4`.
 - Never accept terms, download, or share on the user's behalf without their yes.
 
 ## Output locations
