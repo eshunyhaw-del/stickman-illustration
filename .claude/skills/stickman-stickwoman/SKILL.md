@@ -11,6 +11,20 @@ money, shopping, cooking, travel, technology, friends, work-from-home, everyday 
 Two recurring characters, always the same design (see `characters/master_prompts.md` and the reference
 images in `characters/`). Never redesign them.
 
+## Reference content (what "good" looks like)
+Watched frames of both (not full audio), noted here so scripts aim at the same feel:
+- **Rico Animations, "When intrusive thoughts kick in!"** (https://www.youtube.com/shorts/X5n-hIVuau4):
+  one universal, slightly ridiculous inner-monologue moment (holding a baby and the urge to throw it).
+  Plain flat background, black-outline cartoon, big expressive eyes, a title line at the top plus a
+  subtitle-style caption that follows the spoken thought, small faint channel watermark. The joke is the
+  relatable thought spiralling, not a complicated plot.
+- **Alan Becker, "Handshake"** (https://www.youtube.com/shorts/B5OU2T3BiFo): a single repeated action that
+  escalates ("Level 1" ... "Level 100"), simple stick figures on a clean game-like background, a number
+  counter as the running gag, a surprising payoff.
+- Takeaways: one idea per short, universal feeling or escalating gag, readable in 1 to 2 seconds, captions on
+  screen, quick loop-friendly ending. Tone can be funny, ridiculous or occasionally serious/heartfelt.
+- Make our own original ideas in the Stickman/Stickwoman style. Do not copy their jokes, scripts, characters or footage.
+
 ## Formats (make both unless told otherwise)
 | Platform | Aspect | Vids setting |
 |---|---|---|
