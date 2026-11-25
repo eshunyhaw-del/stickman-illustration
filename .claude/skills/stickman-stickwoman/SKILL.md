@@ -42,9 +42,37 @@ For one idea, write one script and generate the portrait and the landscape versi
 3. **Prompts**: build one Vids prompt per format from `characters/master_prompts.md`
    (copy the character descriptions word for word) plus scene, action, camera, and "No text, no extra characters."
 4. **Generate in Google Vids** (see "Driving Google Vids" below). Do NOT use Higgsfield.
-5. **Insert** the clip so it is saved, check it, and report what you saw. Offer export (downloading needs the
-   user's yes).
-6. **Log** the prompt and result in `scripts/<slug>.md`, then commit and push when the user asks.
+5. **Insert** the clip so it is saved, check it, and report what you saw.
+6. **Brand it** (every short, see "House style: POV caption and channel badge" below): add the POV caption
+   and the **ebsa** channel badge in Vids.
+7. **Export** (downloading needs the user's yes) after branding, so the MP4 includes caption and badge.
+8. **Log** the prompt and result in `scripts/<slug>.md`, then commit and push when the user asks.
+
+## House style: POV caption and channel badge
+Both are added in Google Vids after the clip is inserted. Neither uses AI generation quota.
+
+**POV caption** (so viewers understand the joke at a glance)
+- One line that frames the joke from the viewer's side, e.g. `POV: You said you're not hungry...`
+  Start with "POV:" and keep it under about 40 characters so it fits in 2 lines.
+- Style: white, bold, Arial, **size 28**, drop shadow on, whole length of the clip.
+  Position: Format > Format options > Position, X -2, Y 20 (top of a 9:16 frame). Size 46 was too big and
+  covered the characters' heads.
+- Add it with Text panel > Add a title. Then edit the text. Size: expand the toolbar (the three-dot button in
+  the top toolbar) and type the number in the Font size box. Colour: Format > Text > Color.
+
+**Channel badge: "ebsa"** (our own visible brand mark)
+- Channel name is **ebsa**. Badge = red circle (the characters' red), bold white text `ebsa`, size 12,
+  bottom-right corner, on every short, same place each time.
+- Make it from Shapes > oval, then Fill = red, double-click and type the name. In the shape's text, Ctrl+A then
+  Delete twice before retyping, otherwise old characters stay.
+- It is a deliberate, visible badge. Do NOT colour-match it to the background to hide anything, and do not
+  crop, cover or paint out the AI-generation mark Vids adds to generated clips. When posting, tick the platform's
+  "AI-generated / altered content" label (YouTube, TikTok, Instagram).
+
+**Vids editing quirks (built-in browser pane)**
+- Dragging and arrow-key nudging do not move objects. Use Format options > Position for exact X/Y.
+- Ctrl+Shift+, only shrinks text by tiny steps. Type the size in the Font size box instead.
+- If the editor shows an old/blank page after a sign-out, ask the user to sign in again (never type passwords).
 
 ## Character rules (consistency)
 - HIM: large round bald head, big white eyes with black pupils, thick curved black eyebrows, thick black

@@ -16,3 +16,12 @@ Polished 2D cartoon vector animation, vertical 9:16, bold smooth black outlines,
 - Generated and inserted in Google Vids ("Untitled video", saved to Drive), portrait 9:16, 0:08, 720p, Omni.
 - Characters match the design (bald, moustache, red tie / bun, red headband, red top, black skirt). Frames checked: both on the sofa with the fries, and a shocked face over an empty plate near the end.
 - First attempt was lost: the Vids tab reloaded mid-generation and the un-inserted clip was discarded. Insert immediately when generation finishes.
+
+## POV caption (added 2026-11-25)
+- Added a text overlay in Vids across the whole clip: "POV: You said you're not hungry..." (white, bold, size 28, drop shadow, top of frame, X -2 / Y 20; size 46 was too big and covered their heads).
+- The exported `exports/not-hungry-fries_portrait.mp4` was made BEFORE the caption, so it does not have it. Re-export from Vids (File > Download > MP4) to get the captioned version.
+- Vids tips learned: drag and arrow-key nudging do not work in the browser pane; set position with Format > Format options > Position (X/Y fields). Text size: type it in the Font size box in the expanded toolbar (the three-dot button in the Vids toolbar); Ctrl+Shift+, only changes it by tiny steps. Colour: Format > Text > Color.
+
+## Channel badge
+- Bottom-right red circle with white bold text "ebsa" (the channel name), size 12. The channel badge is a visible brand mark; tick the platform's AI-generated label when posting.
+- Vids quirk: Ctrl+A in a shape's text does not always select everything; press Ctrl+A then Delete twice before retyping.
