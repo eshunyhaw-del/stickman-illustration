@@ -25,3 +25,21 @@ Polished 2D cartoon vector animation, vertical 9:16, bold smooth black outlines,
 ## Channel badge
 - Bottom-right red circle with white bold text "ebsa" (the channel name), size 12. The channel badge is a visible brand mark; tick the platform's AI-generated label when posting.
 - Vids quirk: Ctrl+A in a shape's text does not always select everything; press Ctrl+A then Delete twice before retyping.
+
+## Posting captions
+**YouTube Shorts title:** "I'm not hungry" 🍟😂 #relatable
+
+**YouTube description:**
+```
+POV: You said you're not hungry... 🍟
+
+We all know this couple. 😅 Tag the person who says "I'm not hungry" and then eats half your food!
+
+Follow ebsa for more relatable stickman & stickwoman moments. 💬
+
+#shorts #relatable #couplegoals #funny #animation #stickman #fyp
+```
+
+**TikTok / Instagram:** "I'm not hungry" 🍟😂 Tag the one who does this! #relatable #couples #funny #stickman #ebsa
+
+On upload: tick YouTube's "altered or synthetic content" setting (TikTok and Instagram have their own AI-generated label).

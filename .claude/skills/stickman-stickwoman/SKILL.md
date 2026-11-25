@@ -46,7 +46,9 @@ For one idea, write one script and generate the portrait and the landscape versi
 6. **Brand it** (every short, see "House style: POV caption and channel badge" below): add the POV caption
    and the **ebsa** channel badge in Vids.
 7. **Export** (downloading needs the user's yes) after branding, so the MP4 includes caption and badge.
-8. **Log** the prompt and result in `scripts/<slug>.md`, then commit and push when the user asks.
+8. **Post caption**: write a title, description and hashtags and save them in `scripts/<slug>.md` (see
+   "Posting captions" below).
+9. **Log** the prompt and result in `scripts/<slug>.md`, then commit and push when the user asks.
 
 ## House style: POV caption and channel badge
 Both are added in Google Vids after the clip is inserted. Neither uses AI generation quota.
@@ -73,6 +75,16 @@ Both are added in Google Vids after the clip is inserted. Neither uses AI genera
 - Dragging and arrow-key nudging do not move objects. Use Format options > Position for exact X/Y.
 - Ctrl+Shift+, only shrinks text by tiny steps. Type the size in the Font size box instead.
 - If the editor shows an old/blank page after a sign-out, ask the user to sign in again (never type passwords).
+
+## Posting captions
+Write one set per short, saved under a "Posting captions" heading in `scripts/<slug>.md`. Example:
+`scripts/not-hungry-fries.md`.
+- **YouTube Shorts title**: the relatable line in quotes plus 1 or 2 emoji and `#relatable`, under 100 characters.
+- **Description**: line 1 repeats the POV line; line 2 is a "tag the person who..." call to action; line 3 is
+  `Follow ebsa for more relatable stickman & stickwoman moments.`; then hashtags (`#shorts #relatable #funny
+  #animation #stickman` plus 1 or 2 topic tags).
+- **TikTok / Instagram**: one short line with the same hook, a tag call to action, and 4 to 5 hashtags including `#ebsa`.
+- Always remind the user to tick the platform's AI-generated / altered-content label when uploading.
 
 ## Character rules (consistency)
 - HIM: large round bald head, big white eyes with black pupils, thick curved black eyebrows, thick black
